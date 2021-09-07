@@ -127,20 +127,6 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_sub_flow_instance</document>
         <document_key>04eced562f1e7010a1edae5df699b6d2</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-09-02 03:35:12</sys_created_on>
-        <sys_id>90eced562f1e7010a1edae5df699b6f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-09-02 03:35:12</sys_updated_on>
-        <value>00c4f9022f927010a1edae5df699b6b6</value>
-        <variable display_value="Needit task">fbd4e5122f1e7010a1edae5df699b67d</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_sub_flow_instance</document>
-        <document_key>04eced562f1e7010a1edae5df699b6d2</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
